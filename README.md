@@ -1,2 +1,0 @@
-# ReactjsDatePicker
-Created with CodeSandbox
